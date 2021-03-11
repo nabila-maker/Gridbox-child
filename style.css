@@ -1,0 +1,22 @@
+
+/*
+ Theme Name:   Gridbox Child
+ Description:  Thème enfant de Gridbox
+ Author:       Nabila
+ Author URI:   https://nabila.com
+ Template:     gridbox
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+*/
+#masthead,#colophon{
+	background-color:#674c45;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+    color: white;
+    
+    font-size: 18px;
+
+}
